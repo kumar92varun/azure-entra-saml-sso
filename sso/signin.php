@@ -1,1 +1,0 @@
-Sign In Page - here the user is redirected after being authenticated via SSO.

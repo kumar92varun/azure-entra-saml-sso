@@ -1,0 +1,1 @@
+Page where Azure sends the control back to the application after successfully logging them out from SSO.

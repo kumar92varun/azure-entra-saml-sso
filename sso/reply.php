@@ -1,0 +1,1 @@
+Page where SSO authenticated users are redirected from Azure to the application to verify and process the SAML token.
