@@ -14,7 +14,7 @@
         exit;
     }
 
-    echo "User is authenticated successfully!<br>Data given to us is:<br>";
+    echo "User is authenticated successfully!<br>Data given to us is:<br><pre>";
     $userData = $auth->getAttributes();
     print_r($userData);
 ?>
